@@ -37,7 +37,7 @@ void printArray(vector<int> arr, int size)
 	cout << endl;
 }
 
-// Driver program to test above functions 
+// test above functions 
 int main()
 {
 	vector<int> arr = { 64, 25, 12, 22, 11, 35 };
@@ -48,4 +48,3 @@ int main()
 	return 0;
 }
 
-// This is code is contributed by rathbhupendra 
