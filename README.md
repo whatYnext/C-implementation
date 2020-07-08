@@ -1,2 +1,2 @@
 # C-implementation
-Experiments using C++
+Experiments implemented by C++
